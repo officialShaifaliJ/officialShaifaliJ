@@ -6,14 +6,12 @@ Hi,My Name is Shaifali . I am a passionate Full Stack Web Developer.Strong in de
   <img src="https://media1.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.webp?cid=ecf05e4728f9ysbeeszug7wzirde5hz36pr3vx32pg62wp11&rid=giphy.webp&ct=g"/>
 </div>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **FRONTEND** and **BACKEND**
 - 🌱 I’m currently learning **MERN at Masai School**
 - 👯 I’m looking to collaborate on <a href="https://www.linkedin.com/in/shaifali-610a66249/">LinkedIn</a>
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about **React**
+- 📄 Know about my projects **<a href="https://drive.google.com/file/d/1m-5h1Is4mNkilVLdVOFL7cg8Pegx4CkL/view?usp=share_link">Resume</a>**
+- 📫 How to reach me: <a href="https://mail.google.com/mail/u/0/#compose=CllgCJlLWxqnrmcQxQrxWLMQslBnnpCmLCNFTgHLWjkxDTbKbdbvLxMCsPsGvMKQJTcZTDMFFVV">shaifali02000@gmail.com</a>
+
 
