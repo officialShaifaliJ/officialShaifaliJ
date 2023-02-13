@@ -1,4 +1,7 @@
 ### Hi there 👋 I'm Shaifali 👩
+<div margin="auto">
+<img src="https://img.freepik.com/free-vector/young-tiny-girl-sitting-coding-via-laptop-computer-programmer-code-flat-vector-illustration-it-digital-technology_74855-8751.jpg?size=1026&ext=jpg&ga=GA1.2.1323011461.1676294460&semt=ais"/>
+  </div>
 <p>
 Hi,My Name is Shaifali . I am a passionate Full Stack Web Developer.Strong in design and integration with intuitive problem-solving skills . Proficient in HTML,CSS, JAVASCRIPT, REACT, REDUX. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
 </p>
