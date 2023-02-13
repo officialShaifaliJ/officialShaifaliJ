@@ -14,6 +14,7 @@ Hi,My Name is Shaifali . I am a passionate Full Stack Web Developer.Strong in de
 - 🌱 I’m currently learning **MERN at Masai School**
 - 👯 I’m looking to collaborate on <a href="https://www.linkedin.com/in/shaifali-610a66249/">LinkedIn</a>
 - 💬 Ask me about **React**
+- 🥇Have a look at my **<a href="https://shaifali-99.github.io/">Portfolio</a>**
 - 📄 Know about my projects **<a href="https://drive.google.com/file/d/1m-5h1Is4mNkilVLdVOFL7cg8Pegx4CkL/view?usp=share_link">Resume</a>**
 - 📫 How to reach me: <a href="https://mail.google.com/mail/u/0/#compose=CllgCJlLWxqnrmcQxQrxWLMQslBnnpCmLCNFTgHLWjkxDTbKbdbvLxMCsPsGvMKQJTcZTDMFFVV">shaifali02000@gmail.com</a>
 
