@@ -5,9 +5,7 @@
   </div>
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=999&width=435&lines=Hello+!+My+Name+is+Shaifali.;I+am+a+Full+Stack+Web+Developer.;+Looking+to+start+the+career+as+an+entry-level+software+engineer.;Proficient+in+MERN+Stack+Developing." alt="Typing SVG" /></a>
-<!-- <p>
-Hi,My Name is Shaifali . I am a passionate Full Stack Web Developer.Strong in design and integration with intuitive problem-solving skills . Proficient in MERN Stack Developing . Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
-</p> -->
+
 <!-- <div id="header" align="center">
   <img src="https://media1.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.webp?cid=ecf05e4728f9ysbeeszug7wzirde5hz36pr3vx32pg62wp11&rid=giphy.webp&ct=g"/>
 </div> -->
@@ -15,7 +13,6 @@ Hi,My Name is Shaifali . I am a passionate Full Stack Web Developer.Strong in de
 
 - 🔭 I’m currently working on **FRONTEND** and **BACKEND**
 - 🌱 I’m currently learning **MERN at Masai School**
-<!-- - 👯 I’m looking to collaborate on <a href="https://www.linkedin.com/in/shaifali-610a66249/">LinkedIn</a> -->
 - 💬 Ask me about **React**
 - 🥇Have a look at my **<a href="https://shaifali-99.github.io/">https://shaifali-99.github.io/</a>**
 - 📄 Know about my projects **<a href="https://drive.google.com/file/d/1m-5h1Is4mNkilVLdVOFL7cg8Pegx4CkL/view?usp=share_link">Resume</a>**
