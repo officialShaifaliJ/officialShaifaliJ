@@ -1,4 +1,5 @@
-<h1 style={textAlign="center"}>Hi there 👋 I'm Shaifali 👩</h1>
+<div style={align:"center"}>
+<h1 style={textAlign:"center"}>Hi there 👋 I'm Shaifali 👩</h1>
 
 <div margin="auto">
 <img src="https://img.freepik.com/free-vector/young-tiny-girl-sitting-coding-via-laptop-computer-programmer-code-flat-vector-illustration-it-digital-technology_74855-8751.jpg?size=1026&ext=jpg&ga=GA1.2.1323011461.1676294460&semt=ais"/>
@@ -33,3 +34,9 @@
   <img src="https://img.icons8.com/color/1x/nodejs.png" width="80px"/>
   
  </div>
+
+<h2><img src="https://cliply.co/wp-content/uploads/2020/04/422004440_CHECKMARK_3D_ICON_400px.gif" alt="git" width="3%"/>Github Stats</h2>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=shaifali-99&border_radius=10.6" alt="state1" id="github-streak-stats"/>
+            <img id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=shaifali-99" alt="state2"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaifali-99&layout=compact" id="github-top-langs" alt="s3"/>
+  </div>
