@@ -5,7 +5,7 @@
 <img src="https://img.freepik.com/free-vector/young-tiny-girl-sitting-coding-via-laptop-computer-programmer-code-flat-vector-illustration-it-digital-technology_74855-8751.jpg?size=1026&ext=jpg&ga=GA1.2.1323011461.1676294460&semt=ais"/>
   </div>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=999&width=435&lines=Hello+!+My+Name+is+Shaifali.;I+am+a+Full+Stack+Web+Developer.;+Looking+to+start+the+career+as+an+entry-level+software+engineer.;Proficient+in+MERN+Stack+Developing." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=999&width=435&lines=Hello+!+My+Name+is+Shaifali.;I+am+a+Full+Stack+Web+Developer.;+Looking+to+start+the+career+as+software+engineer.;Proficient+in+MERN+Stack+Developing." alt="Typing SVG" /></a>
 
 <!-- <div id="header" align="center">
   <img src="https://media1.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.webp?cid=ecf05e4728f9ysbeeszug7wzirde5hz36pr3vx32pg62wp11&rid=giphy.webp&ct=g"/>
