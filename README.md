@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on **FRONTEND** and **BACKEND**
 - 🌱 I’m currently learning **MERN at Masai School**
 - 💬 Ask me about **React**
-- 🥇Have a look at my **<a href="https://shaifali-99.github.io/">https://shaifali-99.github.io/</a>**
+- 🥇Have a look at my **<a href="https://bhumi-99.github.io/">https://bhumi-99.github.io/</a>**
 - 📄 Know about my projects **<a href="https://drive.google.com/file/d/1m-5h1Is4mNkilVLdVOFL7cg8Pegx4CkL/view?usp=share_link">Resume</a>**
 - 📫 How to reach me: <a href="https://mail.google.com/mail/u/0/#compose=CllgCJlLWxqnrmcQxQrxWLMQslBnnpCmLCNFTgHLWjkxDTbKbdbvLxMCsPsGvMKQJTcZTDMFFVV">shaifali02000@gmail.com</a>
 
@@ -36,7 +36,7 @@
  </div>
 
 <h2><img src="https://cliply.co/wp-content/uploads/2020/04/422004440_CHECKMARK_3D_ICON_400px.gif" alt="git" width="3%"/>Github Stats</h2>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=shaifali-99&border_radius=10.6" alt="state1" id="github-streak-stats"/>
-            <img id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=shaifali-99" alt="state2"/>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaifali-99&layout=compact" id="github-top-langs" alt="s3"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=bhumi-99&border_radius=10.6" alt="state1" id="github-streak-stats"/>
+            <img id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=bhumi-99" alt="state2"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumi-99&layout=compact" id="github-top-langs" alt="s3"/>
   </div>
