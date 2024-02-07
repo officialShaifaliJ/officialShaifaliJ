@@ -4,8 +4,8 @@
 
 </p>
 
-<div margin="auto">
-<img src="https://img.freepik.com/free-vector/gradient-step-illustration_52683-106550.jpg?size=626&ext=jpg" width="100%" height="400px"/>
+<div w="100%">
+<img src="https://img.freepik.com/free-vector/young-woman-uses-computer-work-reduce-infection_1150-34985.jpg?size=626&ext=jpg"  height="350px" margin='auto/>
   </div>
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=999&width=435&lines=Hello+!+My+Name+is+Shaifali.;I+am+a+Full+Stack+Web+Developer.;+Looking+to+start+the+career+as+software+engineer.;Proficient+in+MERN+Stack+Developing." alt="Typing SVG" /></a>
