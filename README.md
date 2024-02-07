@@ -39,7 +39,7 @@
  </div>
 
 <h2><img src="https://cliply.co/wp-content/uploads/2020/04/422004440_CHECKMARK_3D_ICON_400px.gif" alt="git" width="3%"/>Github Stats</h2>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=officialShaifaliJ&border_radius=10.6" alt="state1" id="github-streak-stats"/>
-            <img id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=officialShaifaliJ" alt="state2"/>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialShaifaliJ&layout=compact" id="github-top-langs" alt="s3"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=officialShaifaliJ&border_radius=10.6&" width="70%" alt="state1" id="github-streak-stats"/>
+            <img id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=officialShaifaliJ" width="70%" alt="state2"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialShaifaliJ&layout=compact" width="70%" id="github-top-langs" alt="s3"/>
   </div>
