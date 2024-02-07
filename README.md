@@ -5,7 +5,7 @@
 </p>
 
 <div margin="auto">
-<img src="https://img.freepik.com/free-vector/young-tiny-girl-sitting-coding-via-laptop-computer-programmer-code-flat-vector-illustration-it-digital-technology_74855-8751.jpg?size=1026&ext=jpg&ga=GA1.2.1323011461.1676294460&semt=ais"/>
+<img src="https://img.freepik.com/free-vector/gradient-step-illustration_52683-106550.jpg?size=626&ext=jpg"/>
   </div>
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=999&width=435&lines=Hello+!+My+Name+is+Shaifali.;I+am+a+Full+Stack+Web+Developer.;+Looking+to+start+the+career+as+software+engineer.;Proficient+in+MERN+Stack+Developing." alt="Typing SVG" /></a>
