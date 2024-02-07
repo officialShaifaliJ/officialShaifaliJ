@@ -1,5 +1,8 @@
 <div style={align:"center"}>
 <h1 style={textAlign:"center"}>Hi there 👋 I'm Shaifali 👩</h1>
+<p style={textAlign:"center"}>I am a highly qualified and professional Full Stack MERN Developer with a deep understanding of modern web development technologies. My expertise spans across HTML, CSS, React, Redux, JavaScript, and Chakra UI. With a passion for innovation and a knack for problem-solving, I thrive in environments where I can implement and launch new projects with precision and efficiency. As a self-disciplined team player, I bring attention to detail and a strong design sense to every project, ensuring seamless integration and exceptional user experiences.
+
+</p>
 
 <div margin="auto">
 <img src="https://img.freepik.com/free-vector/young-tiny-girl-sitting-coding-via-laptop-computer-programmer-code-flat-vector-illustration-it-digital-technology_74855-8751.jpg?size=1026&ext=jpg&ga=GA1.2.1323011461.1676294460&semt=ais"/>
