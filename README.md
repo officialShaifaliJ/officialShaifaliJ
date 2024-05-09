@@ -3,7 +3,7 @@
 <p style={{textAlign:"center"}}>Experienced and professional Full Stack MERN Developer with a deep understanding of web development technologies. My expertise spans across HTML, CSS, React, Redux, JavaScript, and Chakra UI. </p>
 
 <div style={{textAlign:"center",width="100%"}}>
-<img src="https://img.freepik.com/free-vector/young-woman-uses-computer-work-reduce-infection_1150-34985.jpg?size=626&ext=jpg" height="400px" width="00%"/>
+<img src="https://img.freepik.com/free-vector/young-woman-uses-computer-work-reduce-infection_1150-34985.jpg?size=626&ext=jpg" height="00px" width="00%"/>
   </div>
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=999&width=435&lines=Hello+!+My+Name+is+Shaifali.;I+am+a+Full+Stack+Web+Developer.;+Looking+to+start+the+career+as+software+engineer.;Proficient+in+MERN+Stack+Developing." alt="Typing SVG" /></a>
