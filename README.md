@@ -16,8 +16,8 @@
 - 🔭 I’m currently working on **FRONTEND** and **BACKEND**
 - 🌱 I’m currently learning **MERN at Masai School**
 - 💬 Ask me about **React**
-- 🥇Have a look at my **<a href="https://officialshaifalij.github.io/">Portfolio</a>**
-- 📄 Know about my projects **<a href="https://drive.google.com/file/d/1m-5h1Is4mNkilVLdVOFL7cg8Pegx4CkL/view?usp=share_link">Resume</a>**
+- 🥇Have a look at my **<a href="https://officialshaifali.github.io/">Portfolio</a>**
+- 📄 Know about my projects **<a hre="https://drive.google.com/file/d/1m-5h1Is4mNkilVLdVOFL7cg8Pegx4CkL/view?usp=share_link">Resume</a>**
 - 📫 How to reach me: <a href="https://mail.google.com/mail/u/0/#compose=CllgCJlLWxqnrmcQxQrxWLMQslBnnpCmLCNFTgHLWjkxDTbKbdbvLxMCsPsGvMKQJTcZTDMFFVV">shaifali02000@gmail.com</a>
 
 <h2>📜Technical Skills</h2>
