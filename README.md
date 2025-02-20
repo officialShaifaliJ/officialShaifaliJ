@@ -1,5 +1,5 @@
 <div style={{align:"center"}}>
-<h1 style={{textAlign:"center"}}>Hi there 👋 I'm Shaifali 👩</h1>
+<h1 style={{textAlign:"center"}}>Hi there 👋 I'm Shafali 👩</h1>
 <p style={{textAlign:"center"}}>Experienced and professional Full Stack MERN Developer with a deep understanding of web development technologies. My expertise spans across HTML, CSS, React, Redux, JavaScript, and Chakra UI.With a passion for innovation and a knack for problem-solving, I thrive in environments where I can implement and launch new projects with precision and efficiency. As a self-disciplined team player, I bring attention to detail and a strong design sense to every project, ensuring seamless integration and exceptional user experiences. </p>
 
 <div style={{textAlign:"center",width="100%"}}>
